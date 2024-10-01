@@ -26,5 +26,5 @@
 ---
 
 
-[FOLLOW MY INSTAGRAM]([https://www.example.com](https://www.instagram.com/jj.jammer/)
+[FOLLOW MY INSTAGRAM](https://www.instagram.com/jj.jammer/)
 [ADD MY FACEBOOK](https://www.facebook.com/alton.abilay/)
